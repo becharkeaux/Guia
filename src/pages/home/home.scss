@@ -1,0 +1,21 @@
+page-home {
+  .background{
+    background-image: url("../assets/img/1.jpeg");
+    -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+color: #fff;
+  }
+  #camponome{
+color: black;
+background-color: transparent;
+}
+#texto{
+  position: relative;
+left: 30%;
+}
+#texto2{
+width:10%
+}
+}
