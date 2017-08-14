@@ -82,10 +82,5 @@
         <splash height="960" src="resources/ios/splash/Default@2x~iphone.png" width="640" />
         <splash height="480" src="resources/ios/splash/Default~iphone.png" width="320" />
     </platform>
-    <widget xmlns:cdv="http://cordova.apache.org/ns/1.0"
-      id="io.cordova.appb64ec64666e9432a9caf5f01009feb88"
-      version="1.0.0.0"
-      xmlns:gap="http://phonegap.com/ns/1.0"
-      xmlns="http://www.w3.org/ns/widgets">
 
 </widget>
